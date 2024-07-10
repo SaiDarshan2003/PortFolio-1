@@ -14,7 +14,7 @@ Open the Unzipped PortFolio Folder in VS Code as Adminstrator, and go to the ter
 npm install
 ```
 
-This will install all the necessary pakages at the versions I use.
+This will install all the necessary packages at the versions I use.
 
 Then Go to your respective Components And Start Coding....
 
